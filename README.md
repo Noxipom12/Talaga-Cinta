@@ -121,3 +121,98 @@ Mobile-friendly
 Drag & drop upload
 rag & drop upload
 Real-time interactions
+
+
+
+
+📱 Teknologi yang Digunakan
+Teknologi	Fungsi
+PHP	Backend processing
+JavaScript	Frontend interactivity
+Bootstrap 5	UI Framework
+HTML5/CSS3	Markup & styling
+JSON	Data storage
+Webcam API	Camera capture
+File API	Upload handling
+🎨 Customization
+Ubah Tema Warna
+Edit assets/css/style.css:
+
+css
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #3498db;
+    --accent-color: #e74c3c;
+}
+Tambah Lokasi Wisata
+Edit config/locations.json:
+
+json
+{
+    "lokasi_baru": {
+        "name": "Nama Lokasi",
+        "description": "Deskripsi lokasi",
+        "coordinates": "lat,long"
+    }
+}
+🔄 Maintenance
+Backup Data
+bash
+# Backup file konfigurasi
+cp -r config/ backup/config_$(date +%Y%m%d)
+cp -r uploads/ backup/uploads_$(date +%Y%m%d)
+
+Cleanup File Tua
+Sistem otomatis membersihkan file lebih dari 30 hari. Manual cleanup:
+
+php
+# Jalankan dari browser
+http://localhost/talaga-cinta/admin.php?action=cleanup
+🐛 Troubleshooting
+Masalah Upload File
+Cek permission folder uploads: chmod 755 uploads/
+
+Cek ukuran file (max 5MB)
+
+Cek format file (jpg, png, webp)
+
+Login Bermasalah
+Hapus cookies browser
+
+Clear session: Hapus file session di server
+
+Reset password admin via edit config/users.json
+
+Webcam Tidak Bekerja
+Pastikan menggunakan HTTPS atau localhost
+
+Izinkan akses kamera di browser
+
+Coba browser lain (Chrome/Firefox)
+
+📞 Kontribusi & Support
+Laporkan Bug
+Buat Issue di GitHub
+
+Deskripsikan masalah detail
+
+Sertakan screenshot jika perlu
+
+Fitur Baru
+Fork repository
+
+Buat branch fitur
+
+Submit Pull Request
+
+📄 Lisensi
+Proyek ini dikembangkan untuk keperluan edukasi dan penggunaan pribadi.
+
+🙏 Credits
+Dikembangkan dengan ❤️ oleh Noxipom12
+
+🌐 Website: Talaga Cinta
+🐙 GitHub: github.com/Noxipom12/Talaga-Cinta
+📧 Kontak: [zebhacked@gmail.com[
+
+
