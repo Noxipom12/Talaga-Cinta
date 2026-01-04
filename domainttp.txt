@@ -1,0 +1,18 @@
+Serveo (SSH Tunnel) - Paling Simple
+bash
+# Tidak perlu install apa-apa
+ssh -R talaga:80:localhost:8000 serveo.net
+
+
+
+# Install
+pip install pagekite
+
+# Run
+pagekite.py 8000 talaga.pagekite.me
+
+
+
+ngrok http --url=sturgeon-expert-chamois.ngrok-free.app 8000
+
+php -S localhost:8000
