@@ -1,0 +1,34 @@
+{
+    "stories": [
+        {
+            "id": "69594e3535fca",
+            "user_id": "admin1",
+            "username": "admin",
+            "fullname": "Administrator",
+            "title": "Kenangan indah bersama cewek ",
+            "content": "Pada malam hari di suatu kampung dan tamat",
+            "rating": 5,
+            "experience": "romantis",
+            "status": "published",
+            "created_at": 1767460405,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+        },
+        {
+            "id": "695973abbc1dc",
+            "user_id": "6959729893e2a",
+            "username": "Bakalqoh",
+            "fullname": "Bakwakwnn",
+            "title": "Test",
+            "content": "Test",
+            "rating": 5,
+            "experience": "wisata keluarga",
+            "status": "published",
+            "created_at": 1767469995,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+        }
+    ]
+}

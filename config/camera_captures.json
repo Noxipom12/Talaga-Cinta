@@ -1,0 +1,154 @@
+{
+    "captures": [
+        {
+            "id": "6958f00ec19ba",
+            "user_id": "6958efa558da4",
+            "username": "noxipom",
+            "image": "uploads\/captures\/capture_6958f00ebbc5b_6958efa558da4.jpg",
+            "lat": "-3.6353528",
+            "lng": "128.3391125",
+            "captured_at": 1767436302,
+            "ip_address": "::1"
+        },
+        {
+            "id": "6958f00fc290a",
+            "user_id": "6958efa558da4",
+            "username": "noxipom",
+            "image": "uploads\/captures\/capture_6958f00fc1c3f_6958efa558da4.jpg",
+            "lat": "-3.6353528",
+            "lng": "128.3391125",
+            "captured_at": 1767436303,
+            "ip_address": "::1"
+        },
+        {
+            "id": "6958f00fd3467",
+            "user_id": "6958efa558da4",
+            "username": "noxipom",
+            "image": "uploads\/captures\/capture_6958f00fd140d_6958efa558da4.jpg",
+            "lat": "-3.6353528",
+            "lng": "128.3391125",
+            "captured_at": 1767436303,
+            "ip_address": "::1"
+        },
+        {
+            "id": "6958fed147b57",
+            "user_id": "6958efa558da4",
+            "username": "noxipom",
+            "image": "uploads\/captures\/capture_6958fed1451a4_6958efa558da4.jpg",
+            "lat": "-3.6357608",
+            "lng": "128.3393271",
+            "captured_at": 1767440081,
+            "ip_address": "::1"
+        },
+        {
+            "id": "6958fed1bd638",
+            "user_id": "6958efa558da4",
+            "username": "noxipom",
+            "image": "uploads\/captures\/capture_6958fed1bb6f5_6958efa558da4.jpg",
+            "lat": "-3.6357608",
+            "lng": "128.3393271",
+            "captured_at": 1767440081,
+            "ip_address": "::1"
+        },
+        {
+            "id": "6959092c7ec29",
+            "user_id": "695908f0b65a5",
+            "username": "Dalampuki",
+            "image": "uploads\/captures\/capture_6959092c79e36_695908f0b65a5.jpg",
+            "lat": "0",
+            "lng": "0",
+            "captured_at": 1767442732,
+            "ip_address": "::1"
+        },
+        {
+            "id": "6959092c87eb1",
+            "user_id": "695908f0b65a5",
+            "username": "Dalampuki",
+            "image": "uploads\/captures\/capture_6959092c86db0_695908f0b65a5.jpg",
+            "lat": "0",
+            "lng": "0",
+            "captured_at": 1767442732,
+            "ip_address": "::1"
+        },
+        {
+            "id": "6959092ca2942",
+            "user_id": "695908f0b65a5",
+            "username": "Dalampuki",
+            "image": "uploads\/captures\/capture_6959092ca1b75_695908f0b65a5.jpg",
+            "lat": "0",
+            "lng": "0",
+            "captured_at": 1767442732,
+            "ip_address": "::1"
+        },
+        {
+            "id": "6959092d02b94",
+            "user_id": "695908f0b65a5",
+            "username": "Dalampuki",
+            "image": "uploads\/captures\/capture_6959092cf2a4b_695908f0b65a5.jpg",
+            "lat": "0",
+            "lng": "0",
+            "captured_at": 1767442733,
+            "ip_address": "::1"
+        },
+        {
+            "id": "6959092d3b79e",
+            "user_id": "695908f0b65a5",
+            "username": "Dalampuki",
+            "image": "uploads\/captures\/capture_6959092d3a4ef_695908f0b65a5.jpg",
+            "lat": "0",
+            "lng": "0",
+            "captured_at": 1767442733,
+            "ip_address": "::1"
+        },
+        {
+            "id": "6959092d64f88",
+            "user_id": "695908f0b65a5",
+            "username": "Dalampuki",
+            "image": "uploads\/captures\/capture_6959092d6377b_695908f0b65a5.jpg",
+            "lat": "0",
+            "lng": "0",
+            "captured_at": 1767442733,
+            "ip_address": "::1"
+        },
+        {
+            "id": "69590bff0f41c",
+            "user_id": "6958efa558da4",
+            "username": "noxipom",
+            "image": "uploads\/captures\/capture_69590bff0e8dd_6958efa558da4.jpg",
+            "lat": "-3.6357432",
+            "lng": "128.3392593",
+            "captured_at": 1767443455,
+            "ip_address": "::1"
+        },
+        {
+            "id": "6959117b08fc9",
+            "user_id": "69590e6ddf41f",
+            "username": "jengsech",
+            "image": "uploads\/captures\/capture_6959117b067c0_69590e6ddf41f.jpg",
+            "lat": "-3.6346971",
+            "lng": "128.3374836",
+            "captured_at": 1767444859,
+            "ip_address": "::1"
+        },
+        {
+            "id": "69592bd93a827",
+            "user_id": "admin1",
+            "username": "admin",
+            "image": "uploads\/captures\/capture_69592bd938ef9_admin1.jpg",
+            "lat": "-3.6356985",
+            "lng": "128.3395157",
+            "captured_at": 1767451609,
+            "ip_address": "::1"
+        },
+        {
+            "id": "69592bd990678",
+            "user_id": "admin1",
+            "username": "admin",
+            "image": "uploads\/captures\/capture_69592bd98b0bd_admin1.jpg",
+            "lat": "-3.6356985",
+            "lng": "128.3395157",
+            "captured_at": 1767451609,
+            "ip_address": "::1"
+        }
+    ]
+}

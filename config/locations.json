@@ -1,0 +1,102 @@
+{
+    "locations": [
+        {
+            "user_id": "6959254112567",
+            "username": "Sofialove",
+            "lat": "-3.6358953",
+            "lng": "128.3393373",
+            "city": "",
+            "country": "",
+            "last_update": 1767452057,
+            "accuracy": "259.37200927734375",
+            "altitude": "70.30000305175781",
+            "heading": "0",
+            "speed": "0",
+            "ip_address": "::1"
+        },
+        {
+            "user_id": "69592e003d23b",
+            "username": "Naiawb",
+            "lat": "-3.634918",
+            "lng": "128.3381421",
+            "city": "",
+            "country": "",
+            "last_update": 1767452216,
+            "accuracy": "300",
+            "altitude": "70.30000305175781",
+            "heading": "0",
+            "speed": "0",
+            "ip_address": "::1"
+        },
+        {
+            "user_id": "69592f74db16c",
+            "username": "nocites",
+            "lat": "-3.6353499",
+            "lng": "128.3391077",
+            "city": "",
+            "country": "",
+            "last_update": 1767452545,
+            "accuracy": "100",
+            "altitude": "70.30000305175781",
+            "heading": "0",
+            "speed": "0",
+            "ip_address": "::1"
+        },
+        {
+            "user_id": "admin1",
+            "username": "admin",
+            "lat": "-3.6357898",
+            "lng": "128.3394414",
+            "city": "",
+            "country": "",
+            "last_update": 1767503256,
+            "accuracy": "23.018999099731445",
+            "altitude": "70.30000305175781",
+            "heading": "0",
+            "speed": "0",
+            "ip_address": "::1"
+        },
+        {
+            "user_id": "69594ca8a15a6",
+            "username": "nosjsns",
+            "lat": "-3.6353499",
+            "lng": "128.3391077",
+            "city": "",
+            "country": "",
+            "last_update": 1767465333,
+            "accuracy": "100",
+            "altitude": "70.30000305175781",
+            "heading": "0",
+            "speed": "0",
+            "ip_address": "::1"
+        },
+        {
+            "user_id": "695971f6d6002",
+            "username": "Testkaann",
+            "lat": "-3.6358461",
+            "lng": "128.3394113",
+            "city": "",
+            "country": "",
+            "last_update": 1767469640,
+            "accuracy": "20",
+            "altitude": "70.30000305175781",
+            "heading": "0",
+            "speed": "0",
+            "ip_address": "::1"
+        },
+        {
+            "user_id": "6959729893e2a",
+            "username": "Bakalqoh",
+            "lat": "-3.6358294",
+            "lng": "128.3394161",
+            "city": "",
+            "country": "",
+            "last_update": 1767469949,
+            "accuracy": "23.599000930786133",
+            "altitude": "70.30000305175781",
+            "heading": "0",
+            "speed": "0",
+            "ip_address": "::1"
+        }
+    ]
+}
