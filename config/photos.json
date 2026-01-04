@@ -1,0 +1,38 @@
+{
+    "photos": [
+        {
+            "id": "69595058a7bad",
+            "user_id": "69594ca8a15a6",
+            "username": "nosjsns",
+            "fullname": "testing",
+            "title": "View Talaga Cinta",
+            "description": "Views pada hari senin Talaga cinta sangat cantik seperti kamu ",
+            "rating": 4,
+            "tags": "",
+            "image": "uploads\/photos\/6959505889213_21193.jpg",
+            "status": "published",
+            "created_at": 1767460952,
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+        },
+        {
+            "id": "695952c56b9b8",
+            "user_id": "69594ca8a15a6",
+            "username": "nosjsns",
+            "fullname": "testing",
+            "title": "Terkadang kadang",
+            "description": "Foto dari Google maps",
+            "rating": 5,
+            "tags": "",
+            "image": "uploads\/photos\/695952c55f403_21195.jpg",
+            "status": "published",
+            "created_at": 1767461573,
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+        }
+    ]
+}
